@@ -55,7 +55,7 @@
 
 </details>
 
-<details><summary><h3>💻 Estradisticas Del Perfil De GitHub</h3></summary>
+<details><summary><h3>💻 Estadisticas Del Perfil De GitHub</h3></summary>
 
 ----
 	
