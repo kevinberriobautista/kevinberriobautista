@@ -57,7 +57,7 @@
 <br/>
 </details>
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: Mis Repositorios </h3></summary>
 
 ----
 	
