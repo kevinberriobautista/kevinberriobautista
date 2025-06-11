@@ -45,6 +45,10 @@
 	<a href="https://www.linkedin.com/in/kevin-berrio-bautista-711832230"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
+## 📄 Currículum
+
+Puedes ver o descargar mi currículum [aquí](./CV_Kevin_Berrio_Bautista.pdf).
+
  ## <img src="https://cdn-icons-gif.flaticon.com/11677/11677625.gif" width ="25"> Mi Github 
 
 <details><summary><h3> 🔥 Estadísticas</h3></summary>
