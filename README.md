@@ -36,7 +36,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/354575/xampp.svg" width="40" height="40" />
 
- ## Mi Github
+## <img src="https://cdn-icons-gif.flaticon.com/13896/13896755.gif" width ="25"> Contacta Conmigo
+
+<p align="center">
+	<a href="mailto:kevinberriobautista@gmail.com"><img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail"  width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+	<a href="mailto:kevinberriobautista@outlook.es"><img src="https://www.svgrepo.com/show/452067/ms-outlook.svg" alt="Outlook"  width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://wa.me/661666850"><img src="https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg" alt="Whatsapp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+	<a href="www.linkedin.com/in/kevin-berrio-bautista-711832230"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
+</p>
+
+ ## <img src="https://cdn-icons-gif.flaticon.com/11677/11677625.gif" width ="25"> Mi Github 
 
 <details><summary><h3> 🔥 Estadísticas</h3></summary>
 
@@ -52,8 +61,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Mis Estadísticas En GitHub" src="https://github-readme-stats.vercel.app/api?username=kevinberriobautista&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinberriobautista&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="kevinberriobautista" height="200px"/>
+	    <img alt="Mis Estadísticas En GitHub" src="https://github-readme-stats.vercel.app/api?username=kevinberriobautista&show_icons=true&count_private=true&locale=en&theme=default&layout=compact" height="200px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinberriobautista&langs_count=10&show_icons=true&locale=en&theme=default" alt="kevinberriobautista" height="200px"/>
 <br/>
 </details>
 
