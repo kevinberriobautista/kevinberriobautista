@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/kevinberriobautista">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=000000&size=26&center=true&vCenter=true&width=700&height=100&lines=Software+Developer+%26+Cybersecurity+Specialist&pause=1000&repeat=false">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=000000&size=26&center=true&vCenter=true&width=700&height=100&lines=Software+Developer+%26+Cybersecurity+Specialist&pause=1000&repeat=true">
   </a>
 </p>
 
@@ -61,8 +61,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Mis Estadísticas En GitHub" src="https://github-readme-stats.vercel.app/api?username=kevinberriobautista&show_icons=true&count_private=true&locale=en&theme=default&layout=compact" height="200px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinberriobautista&langs_count=10&show_icons=true&locale=en&theme=default" alt="kevinberriobautista" height="200px"/>
+	    <img alt="Mis Estadísticas En GitHub" src="https://github-readme-stats.vercel.app/api?username=kevinberriobautista&show_icons=true&count_private=true&locale=en&theme=swift&layout=compact" height="200px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinberriobautista&langs_count=10&show_icons=true&locale=en&theme=swift" alt="kevinberriobautista" height="200px"/>
 <br/>
 </details>
 
@@ -73,7 +73,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/kevinberriobautista/kevinberriobautista">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinberriobautista&repo=kevinberriobautista&theme=tokyonight" alt="Repositorio 1" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinberriobautista&repo=kevinberriobautista&theme=swift" alt="Repositorio 1" />
     	</a>
   </p>
 </div>
