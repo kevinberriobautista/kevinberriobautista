@@ -65,8 +65,9 @@ Puedes ver o descargar mi currículum [aquí](./CV_Kevin_Berrio_Bautista.pdf).
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Mis Estadísticas En GitHub" src="https://github-readme-stats.vercel.app/api?username=kevinberriobautista&show_icons=true&count_private=true&locale=en&theme=swift&layout=compact" height="200px"/></a>
+	    <img alt="Mis Estadísticas En GitHub" src="https://github-readme-stats.vercel.app/api?username=kevinberriobautista&show_icons=true&count_private=true&locale=en&theme=swift&layout=compact" height="200px"/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinberriobautista&langs_count=10&show_icons=true&locale=en&theme=swift" alt="kevinberriobautista" height="200px"/>
+	</a>
 <br/>
 </details>
 
