@@ -42,7 +42,7 @@
 	<a href="mailto:kevinberriobautista@gmail.com"><img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail"  width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 	<a href="mailto:kevinberriobautista@outlook.es"><img src="https://www.svgrepo.com/show/452067/ms-outlook.svg" alt="Outlook"  width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 	<a href="https://wa.me/661666850"><img src="https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg" alt="Whatsapp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-	<a href="www.linkedin.com/in/kevin-berrio-bautista-711832230"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
+	<a href="https://www.linkedin.com/in/kevin-berrio-bautista-711832230"><img src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
  ## <img src="https://cdn-icons-gif.flaticon.com/11677/11677625.gif" width ="25"> Mi Github 
