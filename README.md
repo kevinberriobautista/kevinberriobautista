@@ -52,6 +52,20 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Mis Estadísticas En GitHub" src="https://github-readme-stats.vercel.app/api?username=kevinberriobautista&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinberriobautista&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	    <img alt="Mis Estadísticas En GitHub" src="https://github-readme-stats.vercel.app/api?username=kevinberriobautista&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="200px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinberriobautista&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="kevinberriobautista" height="200px"/>
 <br/>
+</details>
+
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/kevinberriobautista/kevinberriobautista">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinberriobautista&repo=kevinberriobautista&theme=tokyonight" alt="Repositorio 1" />
+    	</a>
+  </p>
+</div>
+</details>
