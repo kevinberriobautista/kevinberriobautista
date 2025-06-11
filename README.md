@@ -6,9 +6,7 @@
   </a>
 </p>
 
-<h2>
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="40" style="vertical-align: middle;"> Sobre mí
-</h2>
+## <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="40"> Sobre mí
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Animated Dev" align="right"/>
 
@@ -16,33 +14,44 @@
 🔶 Me adapto con facilidad a distintos entornos de desarrollo y disfruto aprendiendo constantemente.<br><br>
 🔶 Poseo **buenas habilidades de comunicación**, lo que me permite integrarme y colaborar eficazmente con equipos de trabajo, aportando siempre con compromiso, iniciativa y una mentalidad orientada a soluciones.
 
-## Lenguajes de Programación & Tecnologías 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Lenguajes de Programación & Tecnologías 
 
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40" /> <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="40" />
-<img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" width="40" />
-<img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="40" />
-<img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="40" />
-<img src="https://www.svgrepo.com/show/473579/csharp.svg" width="40" />
-<img src="https://www.svgrepo.com/show/452088/php.svg" width="40" />
-<img src="https://www.svgrepo.com/show/452091/python.svg" width="40" />
-<img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="40" />
-<img src="https://www.svgrepo.com/show/452156/angular.svg" width="40" />
-<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40" />
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
-<img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" />
-<img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" width="40" /> 
-<img src="https://www.svgrepo.com/show/354520/visual-studio.svg" width="40" />
-<img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="35" />
-<img src="https://www.svgrepo.com/show/354420/swagger.svg" width="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" width="40" />
-<img src="https://www.svgrepo.com/show/354575/xampp.svg" width="40" />
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40" height="40" /> <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/473579/csharp.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/452088/php.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/452156/angular.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/354520/visual-studio.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/354420/swagger.svg" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/354575/xampp.svg" width="40" height="40" />
 
- 
+ ## Mi Github
 
+<details><summary><h3> 🔥 Estadísticas</h3></summary>
 
+----	
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinberriobautista&theme=default" alt="kevinberriobautista" /></p>
 
+</details>
 
+<details><summary><h3>💻 Estradisticas Del Perfil De GitHub</h3></summary>
 
-
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Mis Estadísticas En GitHub" src="https://github-readme-stats.vercel.app/api?username=kevinberriobautista&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinberriobautista&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+<br/>
