@@ -81,7 +81,7 @@ Puedes ver o descargar mi currículum [aquí](./CV_Kevin_Berrio_Bautista.pdf).
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinberriobautista&repo=kevinberriobautista&theme=swift" alt="Repositorio 1" />
     	</a>
 	<a href="https://github.com/kevinberriobautista/AppConcesionario">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinberriobautista&repo=AppConcesionario&theme=swift" alt="Repositorio 2" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevinberriobautista&repo=AppConcesionario&theme=swift&v=1" alt="Repositorio 2" />
     	</a>
   </p>
 </div>
