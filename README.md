@@ -25,7 +25,7 @@
 <img src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/452156/angular.svg" width="40" height="40" />
-<img src="https://images.seeklogo.com/logo-png/27/2/flask-logo-png_seeklogo-273085.png" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/508915/flask.svg" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" height="40" />
@@ -36,6 +36,7 @@
 <img src="https://www.svgrepo.com/show/354420/swagger.svg" width="40" height="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/354575/xampp.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/452192/docker.svg" width="40" height="40" />
 
 ## <img src="https://cdn-icons-gif.flaticon.com/13896/13896755.gif" width ="25"> Contacta Conmigo
 
