@@ -25,6 +25,7 @@
 <img src="https://www.svgrepo.com/show/452091/python.svg" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/452156/angular.svg" width="40" height="40" />
+<img src="https://images.seeklogo.com/logo-png/27/2/flask-logo-png_seeklogo-273085.png" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40" height="40" />
