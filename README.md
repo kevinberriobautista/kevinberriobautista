@@ -57,7 +57,7 @@ Puedes ver o descargar mi currículum [aquí](./CV_Kevin_Berrio_Bautista.pdf).
 
 ----	
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kevinberriobautista&locale=es" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kevinberriobautista&locale=es&v=0" alt="GitHub Streak" /></a>
 
 </details>
 
