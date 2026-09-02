@@ -20,14 +20,13 @@
  
 ## Sobre mí
  
-Desarrollador full-stack en **Medialia Group**, donde gestiono y desarrollo la plataforma web de la compañía de principio a fin.
+**CTO de Medialia Group.** Gestiono y desarrollo todos los desarrollos de la correduría de principio a fin: desde la plataforma web de la compañía hasta las herramientas internas y la infraestructura que lo sostiene todo.
  
 Me dedico a esto porque me **encanta programar** — no es solo el trabajo, es lo que haría igualmente un domingo por la tarde. Soy de los que disfrutan cuando algo se rompe y hay que entender por qué, y me motiva **superarme y buscar retos** que me obliguen a aprender algo que ayer no sabía. Autodidacta por naturaleza: si aparece una tecnología nueva, la primera reacción es abrir la documentación y ponerme a cacharrear.
  
-Trabajo el ciclo completo: desde la lógica de negocio en **.NET** y la interfaz en **Angular**, hasta la capa de datos en **MySQL** / **SQL Server**, el empaquetado en **Docker** y el despliegue en la nube con **Azure** y pipelines de **GitHub Actions**. También levanto servicios internos con **Python** (Flask, Streamlit) y los expongo de forma segura con **Cloudflare Tunnel**.
+Trabajo el ciclo completo: **backend** en .NET, **frontend** en Angular, y creo y gestiono toda la **base de datos** en MySQL / SQL Server. Empaqueto en **Docker** y despliego en la nube con **Azure** y pipelines de **GitHub Actions**, exponiendo los servicios de forma segura con **Cloudflare Tunnel**. También levanto herramientas internas con **Python** (Flask, Streamlit) e integro **IA**, implementando modelos y **creando agentes de IA** para automatizar procesos.
  
-- 🔭 Ahora mismo: infraestructura de despliegue con Docker, Azure, Cloudflare Tunnel y CI/CD en GitHub Actions.
-- 🌱 Aprendiendo: arquitectura de APIs, patrones de diseño y buenas prácticas de seguridad aplicada.
+- 🌱 Siempre en continuo desarrollo y aprendizaje — cada proyecto es una excusa para mejorar.
 - ⚡ Me mueve: los retos difíciles, el código limpio y la satisfacción de que algo que construí funcione en producción.
 - 📍 Roquetas de Mar, Almería — abierto a colaboraciones y proyectos remotos.
 ---
@@ -37,6 +36,7 @@ Trabajo el ciclo completo: desde la lógica de negocio en **.NET** y la interfaz
 - **Backend** — APIs REST con .NET, lógica de negocio, integración con bases de datos y servicios externos. Documentación con Swagger.
 - **Frontend** — SPAs con Angular y TypeScript, maquetación responsive con HTML/CSS.
 - **Bases de datos** — diseño de esquemas, consultas y optimización en MySQL y SQL Server.
+- **IA** — implementación de modelos de IA y creación de agentes de IA para automatizar procesos y flujos de trabajo.
 - **DevOps** — contenerización con Docker, despliegue en Azure, automatización de builds y despliegues con GitHub Actions, exposición segura de servicios con Cloudflare Tunnel.
 - **Automatización y herramientas internas** — scripts y microservicios en Python (Flask, Streamlit) para resolver problemas concretos del día a día.
 - **Web** — desarrollo y mantenimiento de sitios sobre WordPress/Elementor y PHP.
@@ -84,19 +84,7 @@ Trabajo el ciclo completo: desde la lógica de negocio en **.NET** y la interfaz
  
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **[AppVulnTracker](https://github.com/kevinberriobautista/AppVulnTracker)** | Herramienta de registro y seguimiento de vulnerabilidades de seguridad. | `pendiente` |
-| **[AppConcesionario](https://github.com/kevinberriobautista/AppConcesionario)** | Aplicación de gestión para un concesionario: vehículos, clientes y ventas. | `pendiente` |
-| **[AppTienda](https://github.com/kevinberriobautista/AppTienda)** | Sistema de gestión de tienda con catálogo e inventario. | `pendiente` |
+| **[AppVulnTracker](https://github.com/kevinberriobautista/AppVulnTracker)** | Herramienta de registro y seguimiento de vulnerabilidades de seguridad. | `en estabilización` |
+| **[AppConcesionario](https://github.com/kevinberriobautista/AppConcesionario)** | Aplicación de gestión para un concesionario: vehículos, clientes y ventas. | Proyecto personal para práctica y aprendizaje |
+| **[AppTienda](https://github.com/kevinberriobautista/AppTienda)** | Sistema de gestión de tienda con catálogo e inventario. | Proyecto personal para práctica y aprendizaje |
 | **[EjerciciosPython](https://github.com/kevinberriobautista/EjerciciosPython)** | Colección de ejercicios y soluciones en Python. | `Python` |
- 
----
- 
-## Actividad en GitHub
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinberriobautista&show_icons=true&count_private=true&hide_border=true&theme=github_dark&hide_title=true" alt="Estadísticas de GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinberriobautista&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Lenguajes más usados" height="165" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kevinberriobautista&locale=es&hide_border=true&theme=github-dark-blue" alt="Racha de contribuciones" />
-</p>
