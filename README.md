@@ -20,13 +20,26 @@
  
 ## Sobre mí
  
-Desarrollador full-stack en **Medialia Group**, donde gestiono y desarrollo la plataforma web de la compañía. También soy **cofundador de INKUVA Technology, S.L.**
+Desarrollador full-stack en **Medialia Group**, donde gestiono y desarrollo la plataforma web de la compañía de principio a fin.
  
-Trabajo principalmente con **.NET** y **Angular** en backend/frontend, **MySQL** y **SQL Server** en datos, y despliego sobre **Docker** con CI/CD en **GitHub Actions**. Me muevo bien en Python para automatizaciones y herramientas internas.
+Me dedico a esto porque me **encanta programar** — no es solo el trabajo, es lo que haría igualmente un domingo por la tarde. Soy de los que disfrutan cuando algo se rompe y hay que entender por qué, y me motiva **superarme y buscar retos** que me obliguen a aprender algo que ayer no sabía. Autodidacta por naturaleza: si aparece una tecnología nueva, la primera reacción es abrir la documentación y ponerme a cacharrear.
  
-- 🔧 Ahora mismo: infraestructura de despliegue con Docker, Cloudflare Tunnel y pipelines de GitHub Actions.
-- 🌱 Aprendiendo: arquitectura de APIs y buenas prácticas de seguridad aplicada.
+Trabajo el ciclo completo: desde la lógica de negocio en **.NET** y la interfaz en **Angular**, hasta la capa de datos en **MySQL** / **SQL Server**, el empaquetado en **Docker** y el despliegue en la nube con **Azure** y pipelines de **GitHub Actions**. También levanto servicios internos con **Python** (Flask, Streamlit) y los expongo de forma segura con **Cloudflare Tunnel**.
+ 
+- 🔭 Ahora mismo: infraestructura de despliegue con Docker, Azure, Cloudflare Tunnel y CI/CD en GitHub Actions.
+- 🌱 Aprendiendo: arquitectura de APIs, patrones de diseño y buenas prácticas de seguridad aplicada.
+- ⚡ Me mueve: los retos difíciles, el código limpio y la satisfacción de que algo que construí funcione en producción.
 - 📍 Roquetas de Mar, Almería — abierto a colaboraciones y proyectos remotos.
+---
+ 
+## Qué sé hacer
+ 
+- **Backend** — APIs REST con .NET, lógica de negocio, integración con bases de datos y servicios externos. Documentación con Swagger.
+- **Frontend** — SPAs con Angular y TypeScript, maquetación responsive con HTML/CSS.
+- **Bases de datos** — diseño de esquemas, consultas y optimización en MySQL y SQL Server.
+- **DevOps** — contenerización con Docker, despliegue en Azure, automatización de builds y despliegues con GitHub Actions, exposición segura de servicios con Cloudflare Tunnel.
+- **Automatización y herramientas internas** — scripts y microservicios en Python (Flask, Streamlit) para resolver problemas concretos del día a día.
+- **Web** — desarrollo y mantenimiento de sitios sobre WordPress/Elementor y PHP.
 ---
  
 ## Stack
@@ -55,8 +68,9 @@ Trabajo principalmente con **.NET** y **Angular** en backend/frontend, **MySQL**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
  
-**DevOps y herramientas**
+**Cloud y DevOps**
  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
