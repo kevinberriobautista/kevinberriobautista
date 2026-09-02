@@ -85,6 +85,6 @@ Trabajo el ciclo completo: **backend** en .NET, **frontend** en Angular, y creo 
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | **[AppVulnTracker](https://github.com/kevinberriobautista/AppVulnTracker)** | Herramienta de registro y seguimiento de vulnerabilidades de seguridad. | `en estabilización` |
-| **[AppConcesionario](https://github.com/kevinberriobautista/AppConcesionario)** | Aplicación de gestión para un concesionario: vehículos, clientes y ventas. | Proyecto personal para práctica y aprendizaje |
-| **[AppTienda](https://github.com/kevinberriobautista/AppTienda)** | Sistema de gestión de tienda con catálogo e inventario. | Proyecto personal para práctica y aprendizaje |
+| **[AppConcesionario](https://github.com/kevinberriobautista/AppConcesionario)** | Aplicación de gestión para un concesionario: vehículos, clientes y ventas. | `Proyecto personal para práctica y aprendizaje` |
+| **[AppTienda](https://github.com/kevinberriobautista/AppTienda)** | Sistema de gestión de tienda con catálogo e inventario. | `Proyecto personal para práctica y aprendizaje` |
 | **[EjerciciosPython](https://github.com/kevinberriobautista/EjerciciosPython)** | Colección de ejercicios y soluciones en Python. | `Python` |
