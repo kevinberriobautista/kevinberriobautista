@@ -1,53 +1,3 @@
-
-Claude ha terminado la respuesta
-
-<h1 align="center"><b>Hola, soy Kevin Berrio Bautista </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> <p align="center"> <a href="https://github.com/kevinberriobautista"> <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=000000&size
-
-pasted
-
-MIra mireadme de mi perfil de github, quieromejorarlo y pinerlo pro:
-
-Pensó durante 33s
-Tu README tiene un problema serio antes que nada estético: dos de los servicios que usas están muertos. herokuapp.com cerró el free tier en 2022, así que el typing SVG del título y el streak-stats no cargan. Probablemente lleves tiempo con imágenes rotas sin saberlo.
-
-Te he reescrito el archivo entero. Primero el resultado, luego las decisiones:
-
-Archivo creado, leyó un archivo
-Qué he cambiado y por qué:
-
-Cosas que estaban rotas
-
-readme-typing-svg.herokuapp.com → readme-typing-svg.demolab.com. Muerto desde 2022.
-github-readme-streak-stats.herokuapp.com → streak-stats.demolab.com. Igual.
-layout=compactv=1 te faltaba un &, así que el layout compacto nunca se aplicaba.
-wa.me/661666850 no funciona sin prefijo de país (sería 34661666850). Lo he quitado directamente: un móvil personal en un perfil público es un imán de spam. Si lo quieres, mejor que te escriban por LinkedIn.
-Lo que más te resta de "pro"
-
-Los 22 iconos SVG en fila eran un muro sin jerarquía. Ahora son badges agrupados por categoría: se lee de un vistazo qué eres.
-Los GIFs de Giphy: fuera. Un perfil con GIFs animados de gatitos programando lee a junior. Dejé solo el typing SVG del título.
-Todo estaba dentro de <details> colapsados. Nadie los abre. Stats y proyectos ahora visibles.
-Los "Sobre mí" tipo "sólida actitud autodidacta" y "buenas habilidades de comunicación" son relleno de CV: nadie se lo cree porque lo pone todo el mundo. Lo he sustituido por lo que haces de verdad.
-Quité las tarjetas de repos pinneados: GitHub ya tiene pinned repos nativos y esas cards tardan en cargar. Una tabla con descripción real vende mucho más.
-Tres decisiones que tienes que tomar tú
-
-Medialia e INKUVA: los he puesto porque un README sin tu trabajo actual te infravalora bastante. Si prefieres no exponer la cofundación públicamente, borra esa frase.
-"Cybersecurity Specialist": lo he sacado del titular. Solo tienes AppVulnTracker como respaldo y una etiqueta así sin proyectos, certificaciones ni CTFs detrás se nota vacía en una entrevista. Si tienes formación en seguridad, dímelo y lo reintegro con evidencia.
-Columna Stack de la tabla: la dejé en pendiente a propósito. No sé en qué está hecho cada repo y prefiero no inventarlo. Dime los stacks y lo cierro.
-Detalle menor: usaba theme=swift en las stats; lo pasé a github_dark para que se vea bien en modo oscuro, que es el que usa la mayoría. Y quité el segundo email (outlook) — dos correos hace que no se sepa por dónde escribirte.
-
-
-Readme
-Documento·MD 
-
-
-
-
-
-
-Claude es IA y puede cometer errores. Por favor, verifica las respuestas.
-
-
-Readme · MD
 <h1 align="center">Kevin Berrio Bautista</h1>
  
 <p align="center">
@@ -136,4 +86,3 @@ Trabajo principalmente con **.NET** y **Angular** en backend/frontend, **MySQL**
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kevinberriobautista&locale=es&hide_border=true&theme=github-dark-blue" alt="Racha de contribuciones" />
 </p>
- 
